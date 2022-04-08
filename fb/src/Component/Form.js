@@ -10,6 +10,7 @@ function Form() {
         message:""
     });
 
+    
     let name,email,mobile,address,message;
     function dalinfo(event){
         name=name.target.name
